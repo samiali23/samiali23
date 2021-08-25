@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hi there 👋 Hi! I'm Sam, welcome to my Github. 📂
 <!--
 **samiali23/samiali23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
