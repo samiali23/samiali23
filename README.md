@@ -2,7 +2,7 @@
 
 <hr>
 
-I'm a 🌧 Seattle based software engineer coding full-
+I'm a  Seattle based software engineer coding full-
        stack Javascript applications.
        
 <hr>
